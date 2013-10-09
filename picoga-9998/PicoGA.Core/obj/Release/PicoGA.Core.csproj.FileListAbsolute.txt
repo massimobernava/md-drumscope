@@ -1,0 +1,5 @@
+F:\DrumScope\picoga-9998\PicoGA.Core\bin\Release\PicoGA.Core.dll
+F:\DrumScope\picoga-9998\PicoGA.Core\bin\Release\PicoGA.Core.pdb
+F:\DrumScope\picoga-9998\PicoGA.Core\obj\Release\ResolveAssemblyReference.cache
+F:\DrumScope\picoga-9998\PicoGA.Core\obj\Release\PicoGA.Core.dll
+F:\DrumScope\picoga-9998\PicoGA.Core\obj\Release\PicoGA.Core.pdb

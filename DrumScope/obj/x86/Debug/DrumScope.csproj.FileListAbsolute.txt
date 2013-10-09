@@ -1,0 +1,87 @@
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\bin\Debug\DrumScope.exe
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\bin\Debug\DrumScope.pdb
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\DrumScope.MainForm.resources
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\DrumScope.Properties.Resources.resources
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\DrumScope.exe
+C:\Users\Massimo\AppData\Local\Temporary Projects\DrumScope\obj\x86\Debug\DrumScope.pdb
+F:\DrumScope\DrumScope\obj\x86\Debug\DrumScope.exe
+F:\DrumScope\DrumScope\obj\x86\Debug\DrumScope.pdb
+F:\DrumScope\DrumScope\bin\Debug\DrumScope.exe
+F:\DrumScope\DrumScope\bin\Debug\DrumScope.pdb
+F:\DrumScope\DrumScope\bin\Debug\ZedGraph.dll
+F:\DrumScope\DrumScope\bin\Debug\ZedGraph.xml
+F:\DrumScope\DrumScope\bin\Debug\de\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\es\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\fr\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\hu\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\it\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\ja\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\pt\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\ru\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\sk\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\sv\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\tr\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\DrumScope\DrumScope\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DrumScope\DrumScope\obj\x86\Debug\DrumScope.MainForm.resources
+F:\DrumScope\DrumScope\obj\x86\Debug\DrumScope.Properties.Resources.resources
+F:\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.exe
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.pdb
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\DrumScope.exe
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\DrumScope.pdb
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\ZedGraph.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\ZedGraph.xml
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.MainForm.resources
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.Properties.Resources.resources
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DrumScope\DrumScope\bin\Debug\PicoGA.Core.dll
+F:\DrumScope\DrumScope\bin\Debug\PicoGA.Core.pdb
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\PicoGA.Core.dll
+C:\Users\Massimo\Documents\My Dropbox\DrumScope\DrumScope\bin\Debug\PicoGA.Core.pdb
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.exe
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.pdb
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\DrumScope.exe
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\DrumScope.pdb
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\PicoGA.Core.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\ZedGraph.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\PicoGA.Core.pdb
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\ZedGraph.xml
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.MainForm.resources
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\DrumScope.Properties.Resources.resources
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Massimo\Dropbox\DrumScope\DrumScope\obj\x86\Debug\GenerateResource.write.1.tlog
